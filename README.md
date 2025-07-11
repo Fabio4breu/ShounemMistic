@@ -15,7 +15,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
 </div>
@@ -24,11 +23,6 @@
 
 <!-- STATUS DO GITHUB -->
 <h3 align="left">📊 Status GitHub</h3>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShounemMistic&show_icons=true&theme=radical&locale=pt-br&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShounemMistic&layout=compact&theme=radical&hide_border=true" height="170" />
-</div>
-
 <!-- ANIMAÇÃO SNAKE -->
 <img src="https://raw.githubusercontent.com/ShounemMistic/ShounemMistic/output/snake.svg" alt="Snake animation" />
 
